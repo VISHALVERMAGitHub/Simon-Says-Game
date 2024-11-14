@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+}
+.btn{
+    height: 11rem;
+    width: 11rem;
+    border-radius: 1rem;
+    border: 10px solid rgb(48, 45, 45);
+    margin: .25rem;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+
+    width: 100%;
+    
+}
+
+.sky-blue{
+    background-color: rgb(62, 162, 219);
+}
+.red{
+    background-color: rgb(153, 54, 54);
+}
+.green{
+    background-color: rgb(40, 95, 40);
+}
+.grey{
+    background-color: rgb(90, 85, 85);
+}
+
+.flash{
+    background-color: white;
+}
+
+.highest{
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+button{
+    height: 2rem;
+    
+    border: none;
+    background-color: skyblue;
+    border-color: black !important;
+}
+
+#para{
+    margin: 1rem;
+}
